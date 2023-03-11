@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/finext_finance?label=Follow)](https://twitter.com/finext_finance)
 
-FinextFinance is a lightweight implementation of the [Basis Protocol](basis.io) on Ethereum.
+FinextFinance is a lightweight implementation of the [Tomb Protocol](tomb.com) on Fantom.
 
 ## Contract Addresses
 | Contract  | Address |
