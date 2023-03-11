@@ -28,9 +28,11 @@ FinextFinance is a lightweight implementation of the [Tomb Protocol](tomb.com) o
 
 There exists three types of assets in the Finext system. 
 
-- **Finx **: a stablecoin, which the protocol aims to keep value-pegged to 1 US Dollar. 
+- **Finx**: a stablecoin, which the protocol aims to keep value-pegged to 1 US Dollar. 
 - **Bonds**: IOUs issued by the system to buy back Finx when price($Finx) < $1. Bonds are sold at a meaningful discount to price($Finx), and redeemed at $1 when price($Finx) normalizes to $1. 
-- **Nexus  **: receives surplus seigniorage (seigniorage left remaining after all the bonds have been redeemed).
+- **Nexus**: receives surplus seigniorage (seigniorage left remaining after all the bonds have been redeemed).
+- **esFinx**: convert esFix to Finx in 365 day.
+- **esNexus**: convert esNexus to Nexus in 365 day.
 
 #### Community channels:
 
